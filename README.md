@@ -1,6 +1,5 @@
 <h1>Politica de Privacidade</h1>
 
-    <div>
         <p>
 
             <b>Armazenamento de Fotos</b> <br><br>
@@ -25,4 +24,3 @@ Esta política de privacidade se refere somente a este Aplicativo, se não afirm
 
 
         </p>
-    </div>
